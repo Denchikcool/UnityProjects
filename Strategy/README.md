@@ -1,0 +1,1 @@
+This is a simple strategy game. There are two types of houses to choose from, next to which a squad of three cars will spawn. The enemy's bases are located in the corners of the map. I used NavMesh to move bots.
